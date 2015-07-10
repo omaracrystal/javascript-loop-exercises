@@ -4,15 +4,15 @@
 1. Create a JavaScript file
 1. Solve each of the given problems, writing a loop the outputs the given output to the JavaScript console.
 
-## Example
+### Example
 
-### Problem:
+#### Problem:
 
 ```
 0 1 2 3 4 5 6 7 8 9 10
 ```
 
-### Output in the console:
+#### Output in the console:
 
 ```
 0
