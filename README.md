@@ -38,7 +38,7 @@ for (i = 0; i <= 10; i++) {
 
 ## Problems
 
-> The output of the problems is written on a single line for brevity; your solutions will output each value on a new line.
+> The output of the problems is written on a single line for brevity; your solutions will output each value on a new line like in the example above.
 
 1. `0 100 200 300 400 500 600 700 800 900 1000`
 1. `1 2 4 8 16 32 64 128`
