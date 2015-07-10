@@ -40,7 +40,7 @@ for (i = 0; i <= 10; i++) {
 
 > The output of the problems is written on a single line for brevity; your solutions will output each value on a new line.
 
-1. `0 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000`
+1. `0 100 200 300 400 500 600 700 800 900 1000`
 1. `1 2 4 8 16 32 64 128`
 1. `0 2 4 6 8 10`
 1. `3 6 9 12 15`
