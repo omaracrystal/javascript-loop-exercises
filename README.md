@@ -2,29 +2,39 @@
 
 1. Create a blank, valid HTML5 document.
 1. Create a JavaScript file
-1. Solve each of the given problems, writing a loop the outputs the given output to the JavaScript console. For example:
+1. Solve each of the given problems, writing a loop the outputs the given output to the JavaScript console.
 
-  - Problem: `0 1 2 3 4 5 6 7 8 9 10`
-  - Output:
-    ```
-    0
-    1
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-    10
-    ```
-  - Solution:
-    ```javascript
-    for (i = 0; i <= 10; i++) {
-      console.log(i);
-    }
-    ```
+## Example
+
+### Problem:
+
+```
+0 1 2 3 4 5 6 7 8 9 10
+```
+
+### Output in the console:
+
+```
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+
+#### Solution
+
+```javascript
+for (i = 0; i <= 10; i++) {
+  console.log(i);
+}
+```
 
 ## Problems
 
